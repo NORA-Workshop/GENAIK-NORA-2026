@@ -341,7 +341,7 @@ html,body{
 }
 
 /*-------------------------------------
-        Welcome-hero
+        News
 --------------------------------------*/
 .news-list {
     background: white;
@@ -371,7 +371,7 @@ html,body{
     font-weight: 700;
     color: var(--primary);
     min-width: 120px;
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
 }
 
 /*-------------------------------------
