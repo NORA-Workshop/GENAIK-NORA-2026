@@ -339,6 +339,41 @@ html,body{
         font-size: 40px;
     }
 }
+
+/*-------------------------------------
+        Welcome-hero
+--------------------------------------*/
+.news-list {
+    background: white;
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+    padding: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.news-item {
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid var(--light-gray);
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+}
+
+.news-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.news-date {
+    font-weight: 700;
+    color: var(--primary);
+    min-width: 120px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
 /*-------------------------------------
        Goals & Features
 --------------------------------------*/
