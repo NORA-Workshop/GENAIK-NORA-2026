@@ -191,7 +191,7 @@ html,body{
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/Background.jpg)no-repeat;
+    background:url(../images/PinkBackground.jpg)no-repeat;
     background-size:cover;
     background-position: center;
     margin-top: 40px;
@@ -307,7 +307,7 @@ html,body{
 }
 
 .btn-custom:hover {
-    background-color: #067f3c !important;
+    background-color: #ED1C24 !important;
 }
 
 .btn-wrapper {
