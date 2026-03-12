@@ -245,11 +245,11 @@ html,body{
     height: 60px;
     line-height: 60px;
     border-radius: 3px;
-    text-transform: capitalize;
+    /*text-transform: capitalize;
     color: #fff;
     background: #b636ff;
     border:1px solid #b636ff;
-    box-shadow: 0 5px 20px rgba(0,0,0,.2);
+    box-shadow: 0 5px 20px rgba(0,0,0,.2);*/
     -webkit-transition: 0.3s linear; 
     -moz-transition: 0.3s linear; 
     -ms-transition: 0.3s linear; 
